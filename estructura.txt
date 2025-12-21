@@ -1,0 +1,11 @@
+dvd_flask/
+├── app.py
+├── templates/
+│   └── index.html
+└── static/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── dvd.js
+│   └── img/
+│       └── dvd.png
